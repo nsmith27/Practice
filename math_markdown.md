@@ -1,4 +1,3 @@
-
 ```math
 \begin{aligned}
   x & = 1 \\
@@ -7,3 +6,4 @@
   & = 2
 \end{aligned}
 ```
+
